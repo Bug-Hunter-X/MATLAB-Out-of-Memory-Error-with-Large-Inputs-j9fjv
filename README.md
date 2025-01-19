@@ -1,0 +1,3 @@
+# MATLAB Out of Memory Error with Large Inputs
+
+This repository demonstrates an uncommon MATLAB error related to handling extremely large numbers or computationally intensive operations that can lead to out-of-memory errors or exceeding numerical limits. The example shows a function `myFunction` that might fail for very large inputs due to limitations in MATLAB's data types or available memory. The solution explores strategies to handle these situations, including input validation, data type considerations, and alternative algorithms for numerical computations.
